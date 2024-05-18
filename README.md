@@ -1,5 +1,5 @@
 # Desafios de programação em C
-## Desafio 1: [Acesse aqui!]()
+## Desafio 1: [Acesse aqui!](https://github.com/jonathanspereira/C-challenges/tree/main/desafio01)
 O Brasil tem passado nos últimos anos um agrave nos sistemas de abastecimento de água. Com
 isso, uma crise hídrica no país foi instaurada. A partir disso, muitos brasileiros começaram a
 construir cisternas/reservatórios para armazenar água em suas propriedades. No entanto, não se
@@ -16,7 +16,7 @@ Assuma que a cisterna/reservatório esteja cheio, tenha formato cúbico e inform
   
 Obs.: Considere que cada litro equivale a 1000 cm³ ou 1 dm³.
 
-## Desafio 2: [Acesse aqui!]()
+## Desafio 2: [Acesse aqui!](https://github.com/jonathanspereira/C-challenges/tree/main/desafio02)
 Elaborar um programa para CRIPTOGRAFAR e
 DECRIPTOGRAFAR uma string contendo letras
 maiúsculas e números, utilizando o seguinte método:
